@@ -1,101 +1,63 @@
-<h1 align="center">Hi 👋, I'm Tharindu Nadeeshan</h1>
-<h3 align="center">💻 Developer from Sri Lanka | 🎓 Student at SLIIT</h3>
+<!-- Animated header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&center=true&vCenter=true&width=780&height=70&color=0e75b6&lines=Hi+%F0%9F%91%8B,+I'm+Tharindu+Nadeeshan;Developer+from+Sri+Lanka" alt="Typing SVG"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharindu409&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu409" />
+  <img src="https://komarev.com/ghpvc/?username=tharindu409&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🌱 I’m currently learning **MERN Stack Development**  
-- 💬 Ask me about **React**, **Node.js**, or **Kotlin**  
-- 📫 Reach me at **ntharindu331@gmail.com**  
-- ⚡ Fun fact: **You can call me Tharindu!!**
+### 👨‍💻 About me
+- 🎓 Student at **SLIIT** • Passionate about **mobile & web development**  
+- 🌱 Currently learning **MERN** • Ask me about **React** or **Kotlin**  
+- 📫 ntharindu331@gmail.com
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tharindu-nadeeshan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-nadeeshan" height="30" width="40" />
+### 🔗 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharindu-nadeeshan-636196295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTyfgtEuJSNqLIy%2FrkqB4HQ%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/tharindu409" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tharindu409" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-@tharindu409-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ntharindu331@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ntharindu331%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
-  </a>
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub (live)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharindu409&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+> _“The expert in anything was once a beginner.”_ — Helen Hayes
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharindu409&show_icons=true&theme=radical" alt="tharindu409" />
+  <sub>Built with ❤️ • Feel free to connect on LinkedIn</sub>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu409&theme=radical" alt="tharindu409" />
-</p>
-
----
-
-### 🧠 Quote of the Day
-
-> *“The expert in anything was once a beginner.”* – Helen Hayes
-
----
-
-### 💬 Connect
-
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tharindu-nadeeshan)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/tharindu409)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ntharindu331@gmail.com)
-
----
-
 
