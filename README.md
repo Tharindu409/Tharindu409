@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About me
 - 🎓 Student at **SLIIT** • Passionate about **mobile & web development**  
-- 🌱 Currently learning **MERN** • Ask me about **React** or **Kotlin**  
+- 🌱 Currently learning **LARAVEL** • Ask me about **React** or **Spring Boot**  
 - 📫 ntharindu331@gmail.com
 
 ---
