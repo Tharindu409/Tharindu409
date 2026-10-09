@@ -42,17 +42,17 @@ I enjoy working across the software development lifecycle — from designing use
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialu" alt="Frontend technologies" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,laravel" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" alt="Backend technologies" />
 </p>
 
 ### Databases & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,git,github,postman,docker,figma,vscode" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,git,github,postman,figma,vscode" alt="Databases and tools" />
 </p>
 
  
