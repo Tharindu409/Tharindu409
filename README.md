@@ -55,19 +55,16 @@ I enjoy working across the software development lifecycle — from designing use
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,git,github,postman,docker,figma,vscode" alt="Databases and tools" />
 </p>
 
-## 📊 GitHub Activity
+ 
+📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharindu409&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&ring_color=38BDF8" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu409&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&langs_count=6" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tharindu409&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu409&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Tharindu409&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <i>Consistently learning, building, and improving.</i>
+  <img src="https://streak-stats.demolab.com?user=Tharindu409&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 ## 🎯 Current Goals
